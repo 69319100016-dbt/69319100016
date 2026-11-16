@@ -1,0 +1,6 @@
+{
+  "name": "สมุดบัญชีรายรับรายจ่าย — 69319100016DB",
+  "description": "เว็บจัดการรายรับรายจ่าย สรุปผลรายเดือน และวิเคราะห์ข้อมูลด้วยกราฟ เชื่อมต่อ Firebase (db-e6a28 / 69319100016DB) พร้อมระบบเข้าสู่ระบบด้วย Google",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
